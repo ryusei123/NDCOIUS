@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">INDC</string>
+    <string name="bandung">BANDUNG</string>
+    <string name="dkpbd">Kota kembang merupakan sebutan lain untuk kota ini, karena pada jaman dulu kota ini dinilai sangat cantik dengan banyaknya pohon-pohon dan bunga-bunga yang tumbuh di sana. Selain itu Bandung dahulunya disebut juga dengan Parijs van Java karena keindahannya. Selain itu kota Bandung juga dikenal sebagai kota belanja, dengan mall dan factory outlet yang banyak tersebar di kota ini, dan saat ini berangsur-angsur kota Bandung juga menjadi kota wisata kuliner.</string>
+
+    <string-array name="menumkn">
+        <item>Mie Kocok</item>
+        <item>Gepuk </item>
+        <item>Cireng</item>
+        <item>Batagor</item>
+        <item>Lotek</item>
+        <item>Combro</item>
+        <item>Misro</item>
+    </string-array>
+
+    <string-array name="Resep">
+        <item>1 ruas jahe</item>
+        <item> 3 lbr daun salam</item>
+        <item> 8 bh bawang merah</item>
+        <item>6 bh bawang putih</item>
+        <item>1 btr kemiri sangrai</item>
+        <item> 1 ruas jahe</item>
+        <item> 1 sdt merica bubuk</item>
+        <item> 2 ruas lengkuas geprek</item>
+        <item> 4 lbr daun salam</item>
+        <item> 2 btg sereh geprek</item>
+        <item> 2 lbr daun jeruk</item>
+        <item> 1.5 ltr air kaldu</item>
+        <item> 1 sdm ebi bubuk sangrai</item>
+        <item> 1 sdt gula</item>
+        <item>1 sdm garam</item>
+        <item> Secukupnya kaldu bubuk sapi</item>
+    </string-array>
+
+    <string-array name="langkah">
+        <item> 1. Rebus kikil dengan daun salam dan jahe sampe empuk. Buang airnya. Tiriskan, potong2 lalu sisihkan.</item>
+
+        <item> 2. Haluskan bawang putih bawang merah kemiri dan merica.</item>
+
+        <item> 3. Siapkan panci. Didihkan air kaldu sapi. Masukkan bumbu halus lalu sereh lengkuas salam dan daun jeruk. Masukkan potongan kikil. Lalu garam gula ebi bubuk dan kaldu bubuk. Check rasa sesuai selera.</item>
+
+        <item> 4. Penyajian: siapkan mangkuk. Tata mie rebus, toge dan bakso. Siramkan kuah dan kikilnya. Taburi daun seledri dan bawang goreng.</item>
+
+        <item> 5. Sajikan dengan sambal dan pelengkap lainnya. Segeerrr</item>
+
+    </string-array>
+
+
+</resources>
