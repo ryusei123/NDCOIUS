@@ -8,13 +8,14 @@ import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 
-public class MieKocok extends AppCompatActivity {
+public class Gepuk extends AppCompatActivity {
     private EditText mWebsiteEditText;
     private EditText mLocationEditText;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_mie_kocok);
+        setContentView(R.layout.activity_gepuk);
         mWebsiteEditText = (EditText) findViewById(R.id.website_edittext);
         mLocationEditText = (EditText) findViewById(R.id.location_editext);
 
@@ -53,5 +54,4 @@ public class MieKocok extends AppCompatActivity {
         }
     }
 
-    }
-
+}

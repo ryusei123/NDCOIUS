@@ -5,25 +5,29 @@ import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
+import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by KYKY on 4/6/2018.
  */
 
 public class CustomAdapter extends BaseAdapter {
-
+    ListView listView;
     Context c;
     ArrayList<Spacecraft> spacecrafts;
 
     public CustomAdapter(Context c, ArrayList<Spacecraft> spacecrafts) {
         this.c = c;
         this.spacecrafts = spacecrafts;
+
     }
 
     @Override
@@ -58,17 +62,6 @@ public class CustomAdapter extends BaseAdapter {
         propTxt.setText(s.getPropellant());
         img.setImageResource(s.getImage());
 
-        view.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v ) {
-
-                Intent move = new Intent(c, Bandung.class);
-                c.startActivity(move);
-                Toast.makeText(c, s.getName(), Toast.LENGTH_SHORT).show();
-
-
-            }
-        });
 
         return view;
     }

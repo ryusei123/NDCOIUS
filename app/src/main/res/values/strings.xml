@@ -3,6 +3,8 @@
     <string name="bandung">BANDUNG</string>
     <string name="dkpbd">Kota kembang merupakan sebutan lain untuk kota ini, karena pada jaman dulu kota ini dinilai sangat cantik dengan banyaknya pohon-pohon dan bunga-bunga yang tumbuh di sana. Selain itu Bandung dahulunya disebut juga dengan Parijs van Java karena keindahannya. Selain itu kota Bandung juga dikenal sebagai kota belanja, dengan mall dan factory outlet yang banyak tersebar di kota ini, dan saat ini berangsur-angsur kota Bandung juga menjadi kota wisata kuliner.</string>
 
+
+    //bandung
     <string-array name="menumkn">
         <item>Mie Kocok</item>
         <item>Gepuk </item>
@@ -32,6 +34,19 @@
         <item> Secukupnya kaldu bubuk sapi</item>
     </string-array>
 
+    <string-array name="rsgp">
+        <item>500 gram Daging Sapi bagian Gandik </item>
+        <item>7 siung bawang merah</item>
+        <item>1 buah Buah Pala utuhh</item>
+        <item>5 siung bawang putih</item>
+        <item> 1 liter air matang </item>
+        <item> 2 sendok makan ketumbar disangrai</item>
+        <item> 1 butir kelapa santan</item>
+        <item> 5 buah kemiri</item>
+        <item> 1 buah gula merah ukuran kecil</item>
+
+    </string-array>
+
     <string-array name="langkah">
         <item> 1. Rebus kikil dengan daun salam dan jahe sampe empuk. Buang airnya. Tiriskan, potong2 lalu sisihkan.</item>
 
@@ -45,5 +60,84 @@
 
     </string-array>
 
+    <string-array name="lgp">
 
+    <item> 1. Rebus daging sapi bagian gandik utuh. Buang air rebusan pertama dan rebus kembali dengan menambahkan buah pala utuh dengan tujuan untuk menghilangkan bau khas dari daging. Rebus hingga daging setengah empuk. Angkat dan sisihkan kaldunya.</item>
+
+    <item> 2. Potong daging searah serat..pemotongan searah serat ini bertujuan agar dagibg mudah dikunyah dan tidak alot.</item>
+
+    <item> 3. Dengan bantuan ulekan, pukul pukul daging yang sudah diiris searah serta hingga melebar dan empuk. Usahakan pemukulan tidak membuat daging terlepas dari seratnya.</item>
+
+    <item> 4. Siapkan bumbu yang akan dihaluskan. Dapat di gerus atau dihaluskan dengan bantuan blender dengan terlebih dahulu dibuat potongan agak kecil dan menambahkan sedikit santan agar mudah dalam proses penghalusan..</item>
+
+    <item> 5. Masukan bumbu yang telah dihaluskan kedalam wajan, Tambahkan garam dan kaldu bubuk dan gula merah utuh. Tata daging yang telah digeprek.</item>
+
+    <item> 6. Tambahkan santan yang telah diperas dari hasil.kaldu.daging sisa perebusan daging gandik.</item>
+
+    <item> 7. Masak hingga air menyusut dan daging menjadi empuk. Pada saat pemasakan jangan terlalu sering membolak balik daging supaya daging tidak mudah hancur.</item>
+
+    <item> 8. Pindahkan ke kontainer, hilangkan uap panasnya dan sisihkan.</item>
+
+    <item> 9. Siapkan wajan bersih, goreng daging dengan api yang kecil hingga berwarna coklat keemasan.</item>
+
+    <item> 10. Angkat dan sisihkan.</item>
+    </string-array>
+
+    <string name="edittext_uri">https://www.youtube.com/watch?v=-GKU2aG3l6s</string>
+    <string name="button_uri">Lihat Tutorial</string>
+    <string name="edittext_loc">Mih Kocok Bandung Mang Dadeng</string>
+    <string name="button_loc">Cek Tempat Makan</string>
+
+    <string name="etgpt">https://www.youtube.com/watch?v=tad8bNCX6o4</string>
+    <string name="btgpt">Lihat Tutorial</string>
+    <string name="etgpl">Gepuk Ny Yong</string>
+    <string name="btgpl">Cek Tempat Makan</string>
+
+    //bali
+    <string name="dkbli"> Bali adalah sebuah provinsi di Indonesia. Ibu kota provinsi ini adalah Denpasar. Bali juga merupakan salah satu pulau di Kepulauan Nusa Tenggara </string>
+
+    <string-array name="menubali">
+        <item>Ayam Betutu</item>
+        <item>Bebek Betutu </item>
+        <item>Sate Lilit</item>
+        <item>Srombotan</item>
+        <item>Sate Lilit</item>
+        <item>Sate Plecing</item>
+        <item>Tipat Blayag</item>
+    </string-array>
+
+
+    //padang
+    <string name="dkpdg"> Kota Padang adalah kota terbesar di pantai barat Pulau Sumatera sekaligus ibu kota dari provinsi Sumatera Barat, Indonesia. Kota ini merupakan pintu gerbang barat Indonesia dari Samudra Hindia.</string>
+    <string-array name="menupdg">
+        <item>Rendang</item>
+        <item>Sate Padang </item>
+        <item>Ikan Balado</item>
+        <item>Dendeng Balado</item>
+        <item>Ikan Asam Padeh</item>
+        <item>Telur Dadar</item>
+        <item>Teh Talua</item>
+    </string-array>
+
+    //sby
+    <string name="dksby">Kota Surabaya adalah ibu kota Provinsi Jawa Timur, Indonesia, sekaligus kota metropolitan terbesar di provinsi tersebut. Surabaya merupakan kota terbesar kedua di Indonesia setelah Jakarta</string>
+    <string-array name="menusby">
+        <item>Rujak Cingur</item>
+        <item>Lontong Balap khas surabaya</item>
+        <item>Pecel Semanggi</item>
+        <item>Sate Klopo</item>
+        <item>Sate Lisidu</item>
+        <item>Tahu Tek Khas Surabaya</item>
+        <item>Teh Talua</item>
+    </string-array>
+
+    //bogor
+    <string name="dkbgr">Kota Bogor adalah sebuah kota di Provinsi Jawa Barat, Indonesia. Kota ini terletak 59 km sebelah selatan Jakarta, dan wilayahnya berada di tengah-tengah wilayah Kabupaten Bogor</string>
+    <string-array name="menubgr">
+        <item>Laksa Bogor</item>
+        <item>Asinan Bogor</item>
+        <item>Pepes Sagu</item>
+        <item>Es Pala</item>
+
+    </string-array>
 </resources>

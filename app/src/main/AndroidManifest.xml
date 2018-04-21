@@ -18,7 +18,12 @@
         </activity>
         <activity android:name=".Home" />
         <activity android:name=".Bandung" />
-        <activity android:name=".MieKocok"></activity>
+        <activity android:name=".MieKocok" />
+        <activity android:name=".Bali" />
+        <activity android:name=".surabaya" />
+        <activity android:name=".Padang" />
+        <activity android:name=".Bogor" />
+        <activity android:name=".Gepuk"></activity>
     </application>
 
 </manifest>

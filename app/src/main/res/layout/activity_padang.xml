@@ -4,17 +4,19 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.kyky.indc.Bandung">
+    tools:context="com.example.kyky.indc.Padang">
 
     <ImageView
         android:id="@+id/imageView2"
         android:layout_width="wrap_content"
         android:layout_height="200dp"
+        android:layout_alignParentEnd="true"
         android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:scaleType="fitXY"
-        app:srcCompat="@drawable/bandug" />
+        app:srcCompat="@drawable/padang" />
 
     <TextView
         android:id="@+id/bali"
@@ -22,7 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/imageView2"
         android:layout_centerHorizontal="true"
-        android:text="@string/bandung"
+        android:text="PADANG"
         android:textColor="@android:color/background_dark"
         android:textSize="18sp"
         android:textStyle="bold" />
@@ -34,7 +36,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_below="@+id/bali"
-        android:text="@string/dkpbd"
+        android:text="@string/dkpdg"
         android:textSize="12dp" />
 
     <TextView
@@ -44,7 +46,7 @@
         android:layout_below="@+id/medium"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="13dp"
-        android:text="Daftar Makanan Khas Bandung"
+        android:text="Daftar Makanan Khas Padang"
         android:textColor="@android:color/black" />
 
     <ListView
@@ -54,6 +56,6 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_below="@+id/dftr"
-        android:entries="@array/menumkn" />
+        android:entries="@array/menupdg" />
 
 </RelativeLayout>

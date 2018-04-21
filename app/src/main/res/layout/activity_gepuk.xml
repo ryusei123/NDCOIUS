@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.kyky.indc.MieKocok">
+    tools:context="com.example.kyky.indc.Gepuk">
 
     <ImageView
         android:id="@+id/imageView2"
@@ -14,7 +14,7 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:scaleType="fitXY"
-        app:srcCompat="@drawable/miek" />
+        app:srcCompat="@drawable/gepuk" />
 
     <TextView
         android:id="@+id/textView"
@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/imageView2"
         android:layout_centerHorizontal="true"
-        android:text="MIE KOCOK"
+        android:text="GEPUK"
         android:textStyle="bold"
         android:textColor="@android:color/black"
         android:textSize="18sp" />
@@ -50,7 +50,7 @@
             android:layout_height="163dp"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
-            android:entries="@array/Resep" />
+            android:entries="@array/rsgp" />
 
         <ListView
             android:id="@+id/list2"
@@ -58,7 +58,7 @@
             android:layout_height="163dp"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
-            android:entries="@array/langkah" />
+            android:entries="@array/lgp" />
 
     </GridLayout>
 
@@ -71,7 +71,7 @@
         android:layout_alignTop="@+id/open_website_button"
         android:layout_toLeftOf="@+id/open_website_button"
         android:layout_toStartOf="@+id/open_website_button"
-        android:text="@string/edittext_uri" />
+        android:text="@string/etgpt" />
 
     <Button
         android:id="@+id/open_website_button"
@@ -82,13 +82,13 @@
         android:layout_toLeftOf="@+id/textView"
         android:layout_toStartOf="@+id/textView"
         android:onClick="openWebsite"
-        android:text="@string/button_uri" />
+        android:text="@string/btgpt" />
 
     <EditText
         android:id="@+id/location_editext"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:text="@string/edittext_loc" />
+        android:text="@string/etgpl" />
 
     <Button
         android:id="@+id/open_location_button"
@@ -99,10 +99,7 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:onClick="openLocation"
-        android:text="@string/button_loc" />
-
-
-
+        android:text="@string/btgpl" />
 
 
 </RelativeLayout>
