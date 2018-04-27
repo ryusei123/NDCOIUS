@@ -62,25 +62,25 @@
 
     <string-array name="lgp">
 
-    <item> 1. Rebus daging sapi bagian gandik utuh. Buang air rebusan pertama dan rebus kembali dengan menambahkan buah pala utuh dengan tujuan untuk menghilangkan bau khas dari daging. Rebus hingga daging setengah empuk. Angkat dan sisihkan kaldunya.</item>
+        <item> 1. Rebus daging sapi bagian gandik utuh. Buang air rebusan pertama dan rebus kembali dengan menambahkan buah pala utuh dengan tujuan untuk menghilangkan bau khas dari daging. Rebus hingga daging setengah empuk. Angkat dan sisihkan kaldunya.</item>
 
-    <item> 2. Potong daging searah serat..pemotongan searah serat ini bertujuan agar dagibg mudah dikunyah dan tidak alot.</item>
+        <item> 2. Potong daging searah serat..pemotongan searah serat ini bertujuan agar dagibg mudah dikunyah dan tidak alot.</item>
 
-    <item> 3. Dengan bantuan ulekan, pukul pukul daging yang sudah diiris searah serta hingga melebar dan empuk. Usahakan pemukulan tidak membuat daging terlepas dari seratnya.</item>
+        <item> 3. Dengan bantuan ulekan, pukul pukul daging yang sudah diiris searah serta hingga melebar dan empuk. Usahakan pemukulan tidak membuat daging terlepas dari seratnya.</item>
 
-    <item> 4. Siapkan bumbu yang akan dihaluskan. Dapat di gerus atau dihaluskan dengan bantuan blender dengan terlebih dahulu dibuat potongan agak kecil dan menambahkan sedikit santan agar mudah dalam proses penghalusan..</item>
+        <item> 4. Siapkan bumbu yang akan dihaluskan. Dapat di gerus atau dihaluskan dengan bantuan blender dengan terlebih dahulu dibuat potongan agak kecil dan menambahkan sedikit santan agar mudah dalam proses penghalusan..</item>
 
-    <item> 5. Masukan bumbu yang telah dihaluskan kedalam wajan, Tambahkan garam dan kaldu bubuk dan gula merah utuh. Tata daging yang telah digeprek.</item>
+        <item> 5. Masukan bumbu yang telah dihaluskan kedalam wajan, Tambahkan garam dan kaldu bubuk dan gula merah utuh. Tata daging yang telah digeprek.</item>
 
-    <item> 6. Tambahkan santan yang telah diperas dari hasil.kaldu.daging sisa perebusan daging gandik.</item>
+        <item> 6. Tambahkan santan yang telah diperas dari hasil.kaldu.daging sisa perebusan daging gandik.</item>
 
-    <item> 7. Masak hingga air menyusut dan daging menjadi empuk. Pada saat pemasakan jangan terlalu sering membolak balik daging supaya daging tidak mudah hancur.</item>
+        <item> 7. Masak hingga air menyusut dan daging menjadi empuk. Pada saat pemasakan jangan terlalu sering membolak balik daging supaya daging tidak mudah hancur.</item>
 
-    <item> 8. Pindahkan ke kontainer, hilangkan uap panasnya dan sisihkan.</item>
+        <item> 8. Pindahkan ke kontainer, hilangkan uap panasnya dan sisihkan.</item>
 
-    <item> 9. Siapkan wajan bersih, goreng daging dengan api yang kecil hingga berwarna coklat keemasan.</item>
+        <item> 9. Siapkan wajan bersih, goreng daging dengan api yang kecil hingga berwarna coklat keemasan.</item>
 
-    <item> 10. Angkat dan sisihkan.</item>
+        <item> 10. Angkat dan sisihkan.</item>
     </string-array>
 
     <string name="edittext_uri">https://www.youtube.com/watch?v=-GKU2aG3l6s</string>
@@ -93,18 +93,82 @@
     <string name="etgpl">Gepuk Ny Yong</string>
     <string name="btgpl">Cek Tempat Makan</string>
 
+
     //bali
     <string name="dkbli"> Bali adalah sebuah provinsi di Indonesia. Ibu kota provinsi ini adalah Denpasar. Bali juga merupakan salah satu pulau di Kepulauan Nusa Tenggara </string>
 
     <string-array name="menubali">
         <item>Ayam Betutu</item>
-        <item>Bebek Betutu </item>
-        <item>Sate Lilit</item>
+        <item>Sate Lilit </item>
+        <item>Bebek Betutu</item>
         <item>Srombotan</item>
         <item>Sate Lilit</item>
         <item>Sate Plecing</item>
         <item>Tipat Blayag</item>
     </string-array>
+    <string-array name="Resepbtt">
+        <item> 1 Ayam Utuh</item>
+        <item> 3 cm jahe</item>
+        <item> 2 btg sereh</item>
+        <item> 1 sdt kunyit</item>
+        <item> 1 sdt ketumbar</item>
+        <item> Gula pasir secukupnya</item>
+        <item> garam secukupnya</item>
+        <item> merica secukupnya</item>
+        <item> 2 cabe merah/paprika (ukuran Sedang)</item>
+        <item>1 bawang merah besar</item>
+        <item>  5 daun jeruk</item>
+        <item> Terasi</item>
+        <item>  8 Kemiri</item>
+        <item> 5 bawang putihv </item>
+        <item> Daun pisang</item>
+        <item> Daun ketela direbus 1/2 matang</item>
+    </string-array>
+
+    <string-array name="Langkahbtt">
+        <item>Tumis semua bumbu sampai harum.</item>
+        <item>Masukan gula dan garam lalu masukan ayam aduk2 sebentar tambahkan air sampai ayam tertutup air.</item>
+        <item>Masak dgn api kecil sampai ayam bnar empuk. Dan air habis.</item>
+        <item>Angkat dan sajikan</item>
+        <item>Selamat mencobar</item>
+    </string-array>
+
+    <string name="ettt">https://www.youtube.com/watch?v=vapFlugPcXY </string>
+    <string name="bttt">Lihat Tutorial</string>
+    <string name="etat">Warung Ayam Betutu Gianyar</string>
+    <string name="btat">Cek Tempat Makan</string>
+
+    <string-array name="resepsatel">
+        <item>400 gr Ikan tenggiri giling</item>
+        <item> 100 gr Ayam giling</item>
+        <item> 25 gr Tepung kanji</item>
+        <item>  50 gr Tepung terigu</item>
+        <item>  1 buah Kuning telur</item>
+        <item>  1 ruas Kunyit</item>
+        <item>  1 ruas Jahe </item>
+        <item>  4 buah bawang putih </item>
+        <item>   6 buah bawang merah </item>
+        <item>  1 ruas Kencur </item>
+        <item>  4 buah Cabai merah </item>
+        <item>  1 ruas Lengkuas </item>
+        <item>  Garam secukupnya </item>
+        <item>  Gula merah secukupnya </item>
+        <item> Batang serai </item>
+    </string-array>
+
+    <string-array name="langkahsatel">
+        <item>Haluskan kunyit, jahe, bawang putih, bawang merah , kencur, cabai, lengkuas, garam, gula merah hingga halus.</item>
+
+        <item> Tumis bumbu hingga matang.</item>
+
+        <item>Campur ikan tenggiri dan ayam giling, tambahkan tepung kanji, tepung terigu, kuning telur,tumisan bumbu dan serai.</item>
+
+        <item> Bentuk sate lalu lilitkan kebatang serai panggang dan sajikan</item>
+    </string-array>
+    <string name="etstl">https://www.youtube.com/watch?v=_ccyH_JNmtA</string>
+    <string name="btstl">Lihat Tutorial</string>
+    <string name="elsl">Warung Lesehan Mertha Sari</string>
+    <string name="blsl">Cek Tempat Makan</string>
 
 
     //padang
@@ -119,6 +183,41 @@
         <item>Teh Talua</item>
     </string-array>
 
+    <string-array name="reseprdg">
+        <item>  1.5 kg daging </item>
+        <item>   2 liter santan dari 2 butir kelapa tua </item>
+        <item>   Bumbu dan Rempah Untuk Membuat Rendang Minang Asli:</item>
+        <item>  2 batang daun serai, memarkan </item>
+        <item> 4 lembar daun jeruk purut</item>
+        <item> 2 cm asam kandis/gelugur</item>
+        <item>  2 lembar daun kunyit, simpulkan</item>
+        <item> 5 butir kemiri</item>
+        <item> 6 siung bawang putih</item>
+        <item> 100 g cabe merah besar</item>
+        <item> 12 butir bawang merah</item>
+        <item>  100 g cabe merah keriting</item>
+        <item>  2 cm jahe, bakar</item>
+        <item> 2 cm lengkuas</item>
+        <item> 3 cm kunyit, bakar</item>
+        <item>1/2 sdm ketumbar</item>
+        <item> 2 sdt garam </item>
+        <item> 1/2 sdt pala </item>
+        <item> 1 sdt jintan, sangrai</item>
+        <item> Penyedap rasa secukupnya</item>
+    </string-array>
+
+
+    <string-array name="langkahrdg">
+        <item>   Panaskan minyak, tumis bumbu halus, daun kunyit, daun jeruk, serai dan pekak hingga harum.</item>
+        <item>   Masukkan daging, aduk hingga berubah warna.</item>
+        <item>   Tuang santan dan tambahkan kelapa parut sangrai, masak di atas api sedang sambil diaduk perlahan hingga mendidih.</item>
+        <item>   Kecilkan api, masak hingga daging matang, berminyak dan kecoklatan.</item>
+        <item>   Angkan dan sajikan </item>
+    </string-array>
+
+    <string name="etrdg">https://www.youtube.com/watch?v=xnfNylZQe6s </string>
+    <string name="elrdg">Rumah Makan Malah Dicubo</string>
+
     //sby
     <string name="dksby">Kota Surabaya adalah ibu kota Provinsi Jawa Timur, Indonesia, sekaligus kota metropolitan terbesar di provinsi tersebut. Surabaya merupakan kota terbesar kedua di Indonesia setelah Jakarta</string>
     <string-array name="menusby">
@@ -131,13 +230,87 @@
         <item>Teh Talua</item>
     </string-array>
 
+    <string-array name="reseprjk">
+        <item> Kangkung 200 gram ( cuci bersih, siangi )</item>
+        <item> Tauge 100 gram ( siangi )</item>
+        <item>  Daging buah nanas 150 gram</item>
+        <item>  Mentimun jawa/kampung 150 gram</item>
+        <item>  Bengkuang 150 gram ( kupas bersih )</item>
+        <item>  Mangga muda 150 gram ( kupas bersih )</item>
+        <item>  Tempe 150 gram ( goreng hingga berwarna kecoklaan, tiriskan )</item>
+        <item>  Tahu putih atau tahu cina 175 gram ( goreng hingga kecoklatan, tiriskan )</item>
+        <item>  Cingur sapi / kikil sapi 500 gram ( bersihkan )</item>
+        <item>  Pisang batu 3 buah ( 100 gram ), iris tipis</item>
+        <item>  Cabai rawit merah 6 buah</item>
+        <item>  Bawang putih 2 siung</item>
+        <item> Garam 1 sendok teh</item>
+        <item> Kacang tanah 50 gram ( digoreng )</item>
+        <item> Gula merah 50 gram ( disisir )</item>
+        <item> Air asam jawa 3 sendok makan</item>
+        <item> Petis udang 4 sendok makan</item>
+        <item> Air matang 100 mili liter</item>
+        <item>Kerupuk / emping melinjo</item>
+    </string-array>
+
+    <string-array name="langkahrjk">
+
+        <item> Langkah awal, rebus kangkung dan tauge hingga matang, angkat, tiriskan.</item>
+        <item>  Selanjutnya potong-potong buah nanas, mentimun, bengkuang, mangga muda, tempe goreng, tahu goreng dan cingur sapi, sisihkan.</item>
+        <item> Bumbu Rujak Cingur : Tumbuk pisang batu, cabai, bawang putih, dan garam hingga setengah halus. kemudian tambahkan kacang tanah goreng, gula merah, dan air asam jawa. lalu tumbuk kembali hingga bahan halus. tambahkan petis dan air, aduk hingga rata.</item>
+        <item> Terakhir campur semua bahan dengan bumbu rujak, aduk rata.</item>
+        <item> Rujak Cingur segar siap disajikan dengan diberi tambahan lontong, kerupuk dan bawang merah goreng bila suka</item>
+
+    </string-array>
+
+    <string name="etrjk">https://www.youtube.com/watch?v=UhDsJugPm80</string>
+    <string name="elrjk">RUJAK CINGUR DAN SOP BUNTUT GENTENG DURASIM</string>
+
+
+
     //bogor
     <string name="dkbgr">Kota Bogor adalah sebuah kota di Provinsi Jawa Barat, Indonesia. Kota ini terletak 59 km sebelah selatan Jakarta, dan wilayahnya berada di tengah-tengah wilayah Kabupaten Bogor</string>
     <string-array name="menubgr">
-        <item>Laksa Bogor</item>
         <item>Asinan Bogor</item>
         <item>Pepes Sagu</item>
+        <item>Laksa Bogor</item>
         <item>Es Pala</item>
 
     </string-array>
+
+
+
+    <string-array name="reseplks">
+        Bahan:
+        <item>½ ekor ayam, potong-potong</item>
+        <item>250 gr udang, dikupas</item>
+        <item>500 cc santan dari ½ butir kelapa</item>
+        <item>1 lembar daun salam</item>
+        <item>1 batang serai</item>
+
+        <item>Bumbu yang dihaluskan:</item>
+        <item>5 butir bawang merah</item>
+        <item>2 siung bawang putih </item>
+        <item>3 butir kemiri</item>
+        <item>½ cm kunyit</item>
+        <item>1 sdt ketumbar sangrai</item>
+        <item>Garam secukupnya</item>
+
+        <item>Bahan Pelengkap :</item>
+
+        <item>125 gr bihun, rendam air panas, tiriskan</item>
+        <item>2 butir telur rebus, potong-potong</item>
+        <item>2 sdm bawang goreng</item>
+        <item>Daun kemangi</item>
+    </string-array>
+
+    <string-array name="langkahlks">
+        <item>Tumis bumbu yang dihaluskan, masukkan daun salam, serai, ayam dan udang. Aduk rata hingga ayam setengah matang</item>
+        <item>  Masukkan santan sambil sekali-sekali diaduk, kecilkan api. Masak hingga ayam matang dan bumbu meresap</item>
+        <item> Angkat ayam dari panci, cabik-cabik dagingnya, sisihkan</item>
+    </string-array>
+
+    <string name="etlks">https://www.youtube.com/watch?v=mtPv8KU3LW8</string>
+    <string name="ellks">Warung Laksa Pak Inin</string>
+
+
 </resources>

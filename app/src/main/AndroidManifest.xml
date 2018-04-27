@@ -23,7 +23,12 @@
         <activity android:name=".surabaya" />
         <activity android:name=".Padang" />
         <activity android:name=".Bogor" />
-        <activity android:name=".Gepuk"></activity>
+        <activity android:name=".Gepuk" />
+        <activity android:name=".ayambetutu" />
+        <activity android:name=".satelilit" />
+        <activity android:name=".Rendang" />
+        <activity android:name=".Laksabogor" />
+        <activity android:name=".rujakcingur"></activity>
     </application>
 
 </manifest>
